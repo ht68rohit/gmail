@@ -1,4 +1,4 @@
-# _Gamil_ OMG Microservice
+# _Gmail_ OMG Microservice
 
 [![Open Microservice Guide](https://img.shields.io/badge/OMG%20Enabled-👍-green.svg?)](https://microservice.guide)
 [![Build Status](https://travis-ci.com/omg-services/gmail.svg?branch=master)](https://travis-ci.com/omg-services/gmail)
